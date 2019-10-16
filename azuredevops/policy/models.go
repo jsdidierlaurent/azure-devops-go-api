@@ -10,8 +10,8 @@ package policy
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/webapi"
+	"github.com/jsdidierlaurent/azure-devops-go-api/azuredevops"
+	"github.com/jsdidierlaurent/azure-devops-go-api/azuredevops/webapi"
 )
 
 // The full policy configuration with settings.

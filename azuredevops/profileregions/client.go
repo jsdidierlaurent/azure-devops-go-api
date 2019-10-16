@@ -11,7 +11,7 @@ package profileregions
 import (
 	"context"
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/jsdidierlaurent/azure-devops-go-api/azuredevops"
 	"net/http"
 	"net/url"
 )
